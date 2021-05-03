@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-d(wemygke$0z0#-3w#s05rz*#&k+$eq9+jp^#vf&v7&^y+s#ha
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tsf-decision-tree-classifier.herokuapp.com', 'localhost:8000']
+ALLOWED_HOSTS = ['tsf-decision-tree-classifier.herokuapp.com', 'localhost']
 
 
 # Application definition
